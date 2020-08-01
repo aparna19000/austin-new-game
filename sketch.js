@@ -66,7 +66,7 @@ function preload(){
     lavaAnim = loadAnimation("lava/lava1.png","lava/lava2.png","lava/lava3.png","lava/lava4.png");
 
     bgImg = loadImage("bg.png");
-    pointerImg = loadImage("sling3.png");
+    pointerImg = loadImage("point.png");
 
     resImg = loadImage("re.png");
 
